@@ -1,4 +1,5 @@
 <?php
 
-#Sýralama iþlemi yapýlacaktýr...
+//sadsadasdsadadsdsadas
 # Sýralama iþlemlerit
+?>
